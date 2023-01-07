@@ -45,7 +45,8 @@ class ChatScreenController extends GetxController {
         Uri.parse('https://fcm.googleapis.com/fcm/send'),
         headers: <String, String>{
           'Content-Type': 'application/json',
-          'Authorization': 'key=AAAA0DFrWw8:APA91bFe24EWwZCUZU3mBeDW-Qdt87RvoOr6Vn81MJqCRz0Qd0OSkQS6W14fMo3BqN3jvgMbP-oQzSOxE4xnaLZOeOErSwhGDyTryyktS8YZ9Bo0xBHomd_VM7Qf89zpc_ottQbRhHmR',
+          'Authorization': 'key=AAAAfUgqMEU:APA91bEIDUBpFAZFhbnsjBihLQDEuY3NTBIyf5xNiFbrWLr-DuBBz-fHRgTNOtU_Q8RQDndoG3jj7E88I6qT0D4Y6VqIJoX9EL80x6F55od9mEvFmQI5-j10JIr7Yr4z9ECsibQJ6Za-',
+        
         },
         body: jsonEncode(
           <String, dynamic>{
