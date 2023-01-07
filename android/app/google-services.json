@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538081636421",
+    "project_id": "hypnotic-trees-347004",
+    "storage_bucket": "hypnotic-trees-347004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538081636421:android:53548f3a8471f0155f732c",
+        "android_client_info": {
+          "package_name": "com.example.singal_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538081636421-fc9knk3eqbrrv53mrp1kqvi8sd2pssn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHXCIGSLKHXsiw12ww1Tld8RCkRmH-Y1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538081636421-fc9knk3eqbrrv53mrp1kqvi8sd2pssn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
